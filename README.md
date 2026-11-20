@@ -90,7 +90,7 @@ plt.title("Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="821" height="257" alt="image" src="https://github.com/user-attachments/assets/4a2a5b54-964f-4bf4-9a74-f7d19f7d5a65" />
+<img width="717" height="219" alt="image" src="https://github.com/user-attachments/assets/0739409c-4575-43b0-b3ef-34508e79deea" />
 
 
 ## ii) Using Weighted Averaging Filter
@@ -102,7 +102,8 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="600" height="195" alt="image" src="https://github.com/user-attachments/assets/9ed0970b-cb1d-47f0-8ac7-54b1c08fb3f8" />
+<img width="533" height="168" alt="image" src="https://github.com/user-attachments/assets/ef92ee79-c9fc-419c-b310-07c5f6857a82" />
+
 
 
 ## iii) Using Gaussian Filter
@@ -113,7 +114,7 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-<img width="606" height="195" alt="image" src="https://github.com/user-attachments/assets/f3863bfc-cdbf-44be-8efe-be8bfeb63281" />
+<img width="515" height="168" alt="image" src="https://github.com/user-attachments/assets/806f2cea-e27b-4ac1-9ae6-cbef176fe391" />
 
 
 ## iv)Using Median Filter
@@ -123,7 +124,7 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-<img width="810" height="247" alt="image" src="https://github.com/user-attachments/assets/aa74e5af-3fc3-4a3a-80a6-53f4f09d15ae" />
+<img width="717" height="219" alt="image" src="https://github.com/user-attachments/assets/853ca915-7ba4-4a5d-9aad-8d5c093ef891" />
 
 
 ## 2. Sharpening Filters
@@ -136,8 +137,7 @@ plt.title("Laplacian Kernel")
 plt.axis("off")
 plt.show()
 ```
-<img width="565" height="195" alt="image" src="https://github.com/user-attachments/assets/472eecc0-4515-44ad-bbe7-79ea0ea2a8ca" />
-
+<img width="515" height="168" alt="image" src="https://github.com/user-attachments/assets/5b15c24b-e682-426a-83d0-8ca35b98b56e" />
 
 ## ii) Using Laplacian Operator
 ```
@@ -148,7 +148,8 @@ plt.axis("off")
 plt.show()
 ```
 
-<img width="515" height="168" alt="image" src="https://github.com/user-attachments/assets/955ba702-8e97-4672-b44b-9efcd92b9d8c" />
+<img width="515" height="168" alt="image" src="https://github.com/user-attachments/assets/78977061-01cb-4e99-be42-ec9f2f125978" />
+
 
 
 
